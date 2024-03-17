@@ -1,24 +1,3 @@
-// #include<iostream>
-// using namespace std;
-// int main(){
-//     int second,minutes,month,year,weekend;
-//     cout<<"Enter the second: ";
-//     cin>>second;
-//     cout<<"Enter the minutes: ";
-//     cin>>minutes;
-//     cout<<"Enter the month: ";
-//     cin>>month;
-//     cout<<"Enter the year: ";
-//     cin>>year;
-//     cout<<"Enter the weekend: ";
-//     cin>>weekend;
-//     cout<<"SECONDS = "<<second<<endl;
-//     cout<<"MINUTES = "<<minutes<<endl;
-//     cout<<"MONTH = "<<month<<endl;
-//     cout<<"WEEKEND = "<<weekend<<endl;
-//     return 0;
-// }
-
 #include<iostream> // Including input-output stream header file
 #include<cmath> // Including the header file for math functions
 #include <ctime> // Including the header file to work with date and time
